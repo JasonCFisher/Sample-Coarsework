@@ -1,0 +1,8 @@
+# Sum and Average Program using X86 Assembly Language
+Final Project for Computer Architecture and Assembly Language
+Created using Irvine Library (Irvine32.inc)
+
+- Accepts user input of 10 numbers
+- Displays entered numbers
+- Calculates and displays sum and average
+- Uses low-level I/O, procedures, and macros
