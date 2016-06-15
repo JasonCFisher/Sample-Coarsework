@@ -1,5 +1,6 @@
 # Tournament
 Tournament program for Intro to Computer Science II
+C++ Program
 
  - Both players submit a lineup of creatures
  - The creatures fight one-on-one until all creatures from one linup are defeated
